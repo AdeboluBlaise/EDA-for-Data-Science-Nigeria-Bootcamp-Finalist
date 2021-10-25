@@ -1,7 +1,7 @@
 #This is an analysis of the DSN FINALISTS to the bootcap dataset
+#After converting the raw data text into a CSV file and then uploading to a Google drive...
 
-#setwd("C:/Users/HP/Desktop/R")
-#DSN<-read.csv("dsn2021_bootcamp_finalist.CSV")
+
 DSN <- read.csv("https://drive.google.com/uc?export=download&id=1WscVgo79N-frRkFAg8_ufRiWZ_FWhGAr")
 #To see the first columns in the imported data
 head(DSN, n=10)
