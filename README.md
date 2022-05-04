@@ -1,3 +1,3 @@
-# My-R-projects
-As a Statistician, I am skewed to using R Programming language more\
-These would contain my codes for different projects using R
+This is a simple exploratory data analysis for data science nigeria
+The bootcamp has come to an end and the name of all the finalists and their details are displayed
+Simple analysis is been done on the dataset to draw insights
